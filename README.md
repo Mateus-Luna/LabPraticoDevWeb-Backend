@@ -1,1 +1,1 @@
-# LabPraticoDevWeb-Backend
+Neste laboratório, irei desenvolver um pequeno servidor backend usando Node.js com Express e criar um arquivo HTML básico com a ideia da funcionalidade principal (sem javascript)
